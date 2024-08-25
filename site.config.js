@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "ssum-it",
-    description: "Welcome to SSUM-IT!",
+    title: "Ssum-IT",
+    description: "SsumIT - 새로운 세상을 만들어 갑니다",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
