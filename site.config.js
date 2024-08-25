@@ -3,10 +3,10 @@ const CONFIG = {
   profile: {
     name: "ssum",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "full-stack developer",
+    role: "Mobile Developer",
     bio: "I develop everything using node.",
     email: "ssumuss@khu.ac.kr",
-    linkedin: "morethanmin",
+    linkedin: "임수민",
     github: "ssum21",
     instagram: "",
   },
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "sum-log",
-    description: "welcome to sum-log!",
+    title: "ssum-it",
+    description: "Welcome to SSUM-IT!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
