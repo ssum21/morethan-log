@@ -140,5 +140,5 @@ Sponsors template:
 </p>
 
 ## License
-
+.
 The [MIT License](LICENSE).
